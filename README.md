@@ -7,3 +7,4 @@ Push contribution #5 for Intract Quest task.
 # Update test
 Just adding a small update for the GitHub task verification.
 Update test for Gitcoin Passport verification.
+Push contribution #6 for Gitcoin Passport verification.
