@@ -10,3 +10,4 @@ Update test for Gitcoin Passport verification.
 Push contribution #6 for Gitcoin Passport verification.
 Push contribution #7 for Gitcoin Passport verification.
 Push contribution #8 for Gitcoin Passport verification.
+Push contribution #9 for Gitcoin Passport verification.
