@@ -13,3 +13,4 @@ Push contribution #8 for Gitcoin Passport verification.
 Push contribution #9 for Gitcoin Passport verification.
 Push contribution #10 for Gitcoin Passport verification.
 Push contribution #11 for Gitcoin Passport verification.
+Push contribution #12 for Gitcoin Passport verification.
