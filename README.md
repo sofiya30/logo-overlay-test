@@ -24,3 +24,4 @@ Push contribution #19 for Gitcoin Passport verification.
 Push contribution #20 for Gitcoin Passport verification.
 Push contribution #21 for Gitcoin Passport verification.
 Push contribution #22 for Gitcoin Passport verification.
+Push contribution #23 for Gitcoin Passport verification.
