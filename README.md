@@ -80,3 +80,4 @@ Push contribution 75 for Gitcoin Passport verification.
 Push contribution 75 for Gitcoin Passport verification.
 Push contribution 76 for Gitcoin Passport verification.
 Push contribution 77 for Gitcoin Passport verification.
+Push contribution 78 for Gitcoin Passport verification.
