@@ -70,3 +70,4 @@ Push contribution 65 for Gitcoin Passport verification.
 Push contribution 66 for Gitcoin Passport verification.
 Push contribution 67 for Gitcoin Passport verification.
 Push contribution 68 for Gitcoin Passport verification.
+Push contribution 69 for Gitcoin Passport verification.
